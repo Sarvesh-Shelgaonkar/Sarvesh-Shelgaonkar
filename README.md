@@ -54,9 +54,9 @@
 
 <a href="https://www.linkedin.com/in/sarvesh-shelgaonkar-04a1b8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarvesh-shelgaonkar-04a1b8248/" height="30" width="40" /></a>
 
-<a href="/https://stackoverflow.com/users/30120969/sarvesh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30120969/sarvesh-s" height="30" width="40" /></a>
+<!-- <a href="/https://stackoverflow.com/users/30120969/sarvesh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30120969/sarvesh-s" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/___sarvesh_864____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___sarvesh_864____/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/___sarvesh_864____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___sarvesh_864____/" height="30" width="40" /></a> -->
 
 <a href="https://medium.com/@sarveshjoshi876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarveshjoshi876" height="30" width="40" /></a>
 
